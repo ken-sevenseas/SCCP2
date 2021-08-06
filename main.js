@@ -1,4 +1,3 @@
-//to do
 const textarea = document.getElementById("inputText")
 const showbutton = document.getElementById('showButton')
 
